@@ -1,0 +1,30 @@
+[33mcommit 9e558270f6b46905f5fc89a506726192c6735741[m
+Merge: f9e66fb 9b60c8c
+Author: latihannovan <latihannovan@gmail.com>
+Date:   Tue Mar 11 15:37:52 2014 +0700
+
+    Merge branch 'master' of http://github.com/latihannovan/clonenovan
+
+[33mcommit f9e66fb0e32b87287301144f5372903f0005479e[m
+Author: latihannovan <latihannovan@gmail.com>
+Date:   Tue Mar 11 15:29:50 2014 +0700
+
+    upload baru)
+
+[33mcommit 9b60c8cb73de2066975ddca830af7daaf65394b3[m
+Author: latihannovan <latihannovan@gmail.com>
+Date:   Tue Mar 11 12:51:28 2014 +0700
+
+    rename folder novan jadi clonnovan
+
+[33mcommit 8e26b2d49bc59e7060a1ef13b217c6a74c6961e5[m
+Author: latihannovan <latihannovan@gmail.com>
+Date:   Tue Mar 11 12:46:32 2014 +0700
+
+    clone novan
+
+[33mcommit d9df2b5e3af8cbbb8411ed62344e476cbdef3825[m
+Author: latihannovan <latihannovan@gmail.com>
+Date:   Tue Mar 11 12:26:05 2014 +0700
+
+    upload new.txt
